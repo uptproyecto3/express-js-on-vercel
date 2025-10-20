@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
         <nav>
           <a href="/">Casa</a>
           <a href="/about">About</a>
-          <a href="/api-data">API Data</a>
+          <a href="/api-data">API</a>
           <a href="/healthz">Health</a>
         </nav>
         <h1>Welcome to Express on Vercel 🚀</h1>
